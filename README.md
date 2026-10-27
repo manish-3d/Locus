@@ -2,7 +2,7 @@
 
 ## About this repository
 
-Locus is at the beginning of its repository lifecycle. The current Git history contains only this README; no application source, package manifest, infrastructure configuration, tests, or project requirements have been added yet.
+Locus is at the beginning of its repository lifecycle. The repository currently contains only this README; no application source, package manifest, infrastructure configuration, tests, or project requirements have been added yet.
 
 That means the product's purpose, intended users, technology choices, and runtime setup are not defined by the repository today. This README records the current state so contributors can tell what is available and what still needs to be specified.
 
